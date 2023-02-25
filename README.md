@@ -14,3 +14,11 @@
 • Found that clients with a BMI above 25 may be charged more.
 
 • Suggested focusing on clients with the best BMI for potentially profitable clients due to their good health status.
+
+
+
+## Author
+
+Monish Lalani
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/monish-lalani) 

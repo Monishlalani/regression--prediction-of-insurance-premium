@@ -15,7 +15,7 @@
 
 • Used Linear Regression, Decision Tree Regressor, and Random Forest Regressor algorithms.
 
-• Found that clients with a BMI above 25 may be charged more.
+• Found that clients with a BMI above 25 should be charged more.
 
 • Suggested focusing on clients with the best BMI for potentially profitable clients due to their good health status.
 
